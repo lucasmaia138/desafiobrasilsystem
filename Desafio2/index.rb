@@ -7,4 +7,4 @@ puts "Qual é o seu nome?"
 name = gets.chomp
 
 # Imprimir na tela o nome do usuário invertido
-print "O contrario de name é: name.reverse"
+print "O contrario de name é: #{name.reverse}"
